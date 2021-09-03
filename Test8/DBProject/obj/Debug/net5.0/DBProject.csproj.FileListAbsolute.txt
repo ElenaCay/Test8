@@ -1,0 +1,15 @@
+C:\Users\Elena\source\repos\Test8\DBProject\bin\Debug\net5.0\DBProject.deps.json
+C:\Users\Elena\source\repos\Test8\DBProject\bin\Debug\net5.0\DBProject.dll
+C:\Users\Elena\source\repos\Test8\DBProject\bin\Debug\net5.0\ref\DBProject.dll
+C:\Users\Elena\source\repos\Test8\DBProject\bin\Debug\net5.0\DBProject.pdb
+C:\Users\Elena\source\repos\Test8\DBProject\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Elena\source\repos\Test8\DBProject\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Elena\source\repos\Test8\DBProject\obj\Debug\net5.0\DBProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elena\source\repos\Test8\DBProject\obj\Debug\net5.0\DBProject.AssemblyInfoInputs.cache
+C:\Users\Elena\source\repos\Test8\DBProject\obj\Debug\net5.0\DBProject.AssemblyInfo.cs
+C:\Users\Elena\source\repos\Test8\DBProject\obj\Debug\net5.0\DBProject.csproj.CoreCompileInputs.cache
+C:\Users\Elena\source\repos\Test8\DBProject\obj\Debug\net5.0\DBProject.csproj.CopyComplete
+C:\Users\Elena\source\repos\Test8\DBProject\obj\Debug\net5.0\DBProject.dll
+C:\Users\Elena\source\repos\Test8\DBProject\obj\Debug\net5.0\ref\DBProject.dll
+C:\Users\Elena\source\repos\Test8\DBProject\obj\Debug\net5.0\DBProject.pdb
+C:\Users\Elena\source\repos\Test8\DBProject\obj\Debug\net5.0\DBProject.csproj.AssemblyReference.cache
